@@ -12,15 +12,13 @@
 }
 .features-item-img {
   display: flex;
+  width: 100%;
+  height: 112px;
   justify-content: center;
-  padding: 24px;
+  align-items: center;
   border: 1px solid #8e8f99;
   border-radius: 4px;
   background-color: #f4f4fd;
-}
-.features-item-img svg {
-  width: 64px;
-  height: 64px;
 }
 .feature-item-title {
   margin: 8px 0;
